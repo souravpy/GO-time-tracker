@@ -26,7 +26,7 @@ Be aware to change the HOST `const` inside `App.jsx`
 
 first build the container:
 
-`docker build -t joaodias/postgres:latest .`
+`docker build -t souravpy/postgres:latest .`
 
 To fire up a database, run:
 
