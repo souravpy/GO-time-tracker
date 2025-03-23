@@ -1,6 +1,5 @@
 ## The Time Tracker web app
 
-A time tracker in the web. Deployed to http://thetimetracker.surge.sh
 
 ### Backend
 
