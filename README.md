@@ -31,7 +31,5 @@ first build the container:
 To fire up a database, run:
 
 `docker run -p 5432:5432 -e POSTGRES_PASSWORD=dMzpXuzT -e POSTGR
-ES_DB=TimeTracker joaodias/postgres`
-# GO-time-tracker
-# GO-time-tracker
-# GO-time-tracker
+ES_DB=TimeTracker souravpy/postgres`
+
